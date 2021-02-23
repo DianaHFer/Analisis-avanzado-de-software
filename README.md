@@ -7,8 +7,8 @@
 
 ## Departamento de Sistemas y Computación
 ## Ingeniería en Sistemas Computacionales
-### Semestre Enero-Junio2021
-### Analisis Avanzado de Software
+## Semestre Enero-Junio2021
+## Analisis Avanzado de Software
 
 ## Practicas U1📝
 
