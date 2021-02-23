@@ -5,11 +5,12 @@
 #        Subdirección Académica
 
 # Departamento de Sistemas y Computación
-## Ingeniería en Sistemas Computacionales
-## Lenguajes de interfaz 
+# Ingeniería en Sistemas Computacionales
+# Analisis Avanzado de Software
 
-# Practica Bloque:3.6 ARM 64 bits 📝
-# Objetivo:  Ejecutar el Hola Mundo en ARM64 bits con el Docker mejora con el sistema operativo ligero para Router, Firewalls, VPN muy seguro y considerado por Amazon de nombre ALPINE LINUX
+# Practica Bloque📝
+ 
+[C0.1_IntegrarEquiposdeTrabajo_Disae.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/C0.1_IntegrarEquiposdeTrabajo_Disae.md)
 ----
 
 # 📝 Apellidos, Nombres y Num Control
@@ -17,7 +18,7 @@
    
 
 # Profesor:
-# MC. René Solis Reyes
+# 
 # Semestre sep - ene 2021
 
 -----
