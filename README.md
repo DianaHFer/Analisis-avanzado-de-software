@@ -10,7 +10,7 @@
 
 # Practica Bloque📝
 
-  *[C0.1_IntegrarEquiposdeTrabajo_Disae.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/C0.1_IntegrarEquiposdeTrabajo_Disae.md)
+  * [C0.1_IntegrarEquiposdeTrabajo_Disae.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/C0.1_IntegrarEquiposdeTrabajo_Disae.md)
 ----
 
 # 📝 Apellidos, Nombres y Num Control
