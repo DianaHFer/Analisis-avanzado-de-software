@@ -8,9 +8,9 @@
 ## Departamento de Sistemas y Computación
 ## Ingeniería en Sistemas Computacionales
 ## Semestre Enero-Junio2021
-## Analisis Avanzado de Software
+## Análisis Avanzado de Software
 
-## Practicas U1📝
+## Prácticas U1📝
 
    - ⌛️[C0.1_IntegrarEquiposdeTrabajo_Disae.md](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/U1/C0.1_IntegrarEquiposdeTrabajo_Disae.md#)
 ----
