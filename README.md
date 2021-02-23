@@ -1,5 +1,5 @@
 
-![](Images/isclogo.png)
+![](Images/isclogo.png) ![](Images/ITT.png)
 
 ##    Tecnológico Nacional de México
 ##  Instituto Tecnológico de Tijuana
