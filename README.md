@@ -7,7 +7,8 @@
 
 ## Departamento de Sistemas y Computación
 ## Ingeniería en Sistemas Computacionales
-## Analisis Avanzado de Software
+### Semestre Enero-Junio2021
+### Analisis Avanzado de Software
 
 ## Practicas U1📝
 
@@ -21,7 +22,7 @@
 ## Profesor:
 
 ### Enrique Alvarez Jaime Leonardo
-### Semestre Enero-Junio2021
+
 
 -----
 
