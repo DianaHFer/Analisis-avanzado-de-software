@@ -1,5 +1,5 @@
 ![](Images/isclogo.png)
-<div style="text-align: center">
+
 
 ##    Tecnológico Nacional de México
 
@@ -19,7 +19,7 @@ Enero-Junio2021
 ## **Docente:**
 ### Enrique Alvarez Jaime Leonardo.
 
-## **Nombre del equipo**: <span style="color:red">___Disae___ </span>
+## **Nombre del equipo**: ___Disae___ 
 
 
 
@@ -99,7 +99,7 @@ Enero-Junio2021
 
 ---
 
-<div style="text-align: justify">
+
 
 # Prácticas U1📝
 
