@@ -104,7 +104,7 @@ Enero-Junio2021
 # Prácticas U1📝
 
  ##  - ⌛️[C0.1 IntegrarEquiposdeTrabajo.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/U1/C0.1_IntegrarEquiposdeTrabajo_HernandezDiana.md#)
- ##  - ⌛️[C0.2 Tipo de sistema de información.]()
+ ##  - ⌛️[C0.2 Tipo de sistema de información.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/U1/C0.2_Tipo%20de%20sistema%20de%20informacion_HernandezDiana.md)
 ----
 
 
