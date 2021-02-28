@@ -7,7 +7,7 @@
 ##       Subdirección Académica
 ## Departamento de Sistemas y Computación
 ## Ingeniería en Sistemas Computacionales
-
+</div>
 ___
 
 ## **Semestre:** 
@@ -98,7 +98,7 @@ Enero-Junio2021
 </table>
 
 ---
-<div/>
+
 <div style="text-align: justify">
 
 # Prácticas U1📝
