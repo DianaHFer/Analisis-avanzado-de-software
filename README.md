@@ -1,5 +1,9 @@
 ![](Images/isclogo.png)
 
+<<<<<<< HEAD
+=======
+<div style="text-align: center">
+>>>>>>> eb40b5134519056970ddce652fdfa071814ca240
 
 ##    Tecnológico Nacional de México
 
