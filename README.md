@@ -7,7 +7,7 @@
 ##       Subdirección Académica
 ## Departamento de Sistemas y Computación
 ## Ingeniería en Sistemas Computacionales
-</div>
+
 ___
 
 ## **Semestre:** 
