@@ -115,7 +115,7 @@ ___
 ---
 ---
  ###  ⌛️[C0.1 IntegrarEquiposdeTrabajo.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/C0.1_IntegrarEquiposdeTrabajo_HernandezDiana.md#)
- ###  ⌛️[C0.2 Tipo de sistema de información.]https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/C0.2_Tipo%20de%20sistema%20de%20informacion_HernandezDiana.md)
+ ###  ⌛️[C0.2 Tipo de sistema de información.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/C0.2_Tipo%20de%20sistema%20de%20informacion_HernandezDiana.md)
  ### ⌛️[C0.3 Diagrama de flujo del proceso.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/C0.3_Diagrama%20de%20flujo%20del%20proceso_HernandezDiana.md)
 ---
 
