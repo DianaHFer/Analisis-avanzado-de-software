@@ -122,6 +122,8 @@ ___
 ### ***ACTIVIDADES EN EQUIPO.***
 ---
 ---
+###  ⌛️[A0.1 Recopilación de datos por medio de la entrevista.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/A0.1_Recopilacion_Entrevista_HernandezDiana.md)
+---
 
 
 
