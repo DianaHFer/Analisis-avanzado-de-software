@@ -117,6 +117,8 @@ ___
  ###  ⌛️[C0.1 Integrar equipos de trabajo.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/C0.1_IntegrarEquiposdeTrabajo_HernandezDiana.md#)
  ###  ⌛️[C0.2 Tipo de sistema de información.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/C0.2_Tipo%20de%20sistema%20de%20informacion_HernandezDiana.md)
  ### ⌛️[C0.3 Diagrama de flujo del proceso.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/C0.3_Diagrama%20de%20flujo%20del%20proceso_HernandezDiana.md)
+ ### ⌛️[C1.1 Definición de objetivo general y los especificos, asi como el modelado del negocio. .](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/C1.1_Definici%C3%B3n%20de%20objetivo%20general%20y%20los%20especificos%2C%20asi%20como%20el%20modelado%20del%20negocio_HernandezDiana.md)
+---
 ---
 
 ### ***ACTIVIDADES EN EQUIPO.***
