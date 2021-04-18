@@ -129,6 +129,9 @@ ___
 ---
 ---
 ###  ⌛️[A0.1 Compilation Interview.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/A0.1_Compilation_Interview_HernandezDiana.md)
+
+### ⌛️[A1.0 Consolidacion del acta constitutiva.]
+
 ---
 
 
