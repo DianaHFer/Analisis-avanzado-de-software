@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="hWGu5HXMCDJEKDJ21eBq" name="Page-1">
-        <mxGraphModel dx="2901" dy="1776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2854" dy="2201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -206,7 +206,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="81" value="Revalidar curso" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="81" value="Revalidar curso" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-120" y="1240" width="85" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="82" value="Extender" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="49" target="81" edge="1">
@@ -224,10 +224,10 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="84" value="Evaluacion de curso" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="84" value="Evaluacion de curso" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-135" y="1340" width="100" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="85" value="Certificacion" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="85" value="Certificacion" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="300" y="1320" width="75" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="86" value="Extender" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.037;exitY=0.343;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="85" target="84" edge="1">
@@ -245,13 +245,13 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="91" value="Buscar topico" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="91" value="Buscar topico" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-100" y="830" width="100" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="92" value="Seleccionar topico" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="92" value="Seleccionar topico" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-107.5" y="920" width="105" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="94" value="Descargar/subir contenido" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="94" value="Descargar/subir contenido" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-112.5" y="1030" width="110" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="91" target="91" edge="1">
@@ -312,7 +312,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="106" value="Analitica de datos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                <mxCell id="106" value="Analitica de datos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-230" y="609.5" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="107" value="Incluir" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="43" target="106" edge="1">
