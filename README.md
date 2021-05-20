@@ -137,6 +137,7 @@ ___
 
 ### ⌛️[A1.1 Requirements modeling through UML diagrams.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/A1.1_Requirements_modeling_through_UML_diagrams_HernandezDiana.md)
 ### ⌛️[A2.1 Specification of requirements and documentation.](https://github.com/DianaHFer/Analisis-avanzado-de-software/blob/main/Documents%20U1/PDF/A2.1_Specification_of_requirements_and_documentation_HernandezDiana.pdf)
+### ⌛️[A2.2_Architecture_design_4+1.]()
 ---
 
 
